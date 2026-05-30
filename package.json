@@ -1,0 +1,15 @@
+{
+  "name": "diamondbot",
+  "version": "1.0.0",
+  "description": "DiamondBot - Minecraft AFK Bot for Window SMP",
+  "main": "mineflayer_bot.js",
+  "scripts": {
+    "start": "node mineflayer_bot.js",
+    "bot": "node mineflayer_bot.js"
+  },
+  "dependencies": {
+    "minecraft-data": "^3.0.0",
+    "mineflayer": "^4.37.1",
+    "mineflayer-pathfinder": "^2.4.5"
+  }
+}
